@@ -1,3 +1,5 @@
+package sourya.java.main;
+
 /**
  * Created by IntelliJ IDEA.
  * User: morningstar
